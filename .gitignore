@@ -1,0 +1,5 @@
+
+playScala/project/target/
+
+**/target/
+**/.idea/

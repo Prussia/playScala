@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/playscala.iml" filepath="$PROJECT_DIR$/.idea/modules/playscala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/playscala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/playscala-build.iml" />
     </modules>
   </component>
 </project>
