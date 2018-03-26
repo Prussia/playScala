@@ -6,4 +6,9 @@ object Main extends App {
   println(s"The oldest person is ${ages.max}")
   println(s"The youngest person is ${ages.min}")
   println(s"********************************")
+
+
+  def cube(x: Int) = {
+    x * x * x
+  }
 }
